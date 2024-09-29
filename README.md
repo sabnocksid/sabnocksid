@@ -1,4 +1,4 @@
-#Siddhartha Paudel
+# Siddhartha Paudel
 **`Django Developer`**
 
 Hi, I'm Siddharha Paudel, a passionate software developer specializing in Django web development. I am driven by the challenge of building scalable, efficient, and feature-rich web applications using Django, one of the most powerful frameworks in the Python ecosystem.

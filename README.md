@@ -90,7 +90,7 @@ expertise = {
   
   ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=sabnocksid&color=blue&style=flat-square)
   
   ⭐️ From [Siddhartha Paudel](https://github.com/YOUR_GITHUB_USERNAME)
   
